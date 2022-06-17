@@ -1,0 +1,22 @@
+{
+  "name": "vms-api",
+  "version": "0.0.0",
+  "description": "Venue Management System API.",
+  "main": "./dist/main.js",
+  "scripts": {
+    "start": "tsc && node ./dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leungyauming/vms-api.git"
+  },
+  "author": "Leung Yau Ming <leungyauming2005@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leungyauming/vms-api/issues"
+  },
+  "homepage": "https://github.com/leungyauming/vms-api#readme",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}
