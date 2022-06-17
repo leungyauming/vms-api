@@ -13,5 +13,5 @@
 
 3. Start the application.
     ```bash
-    npm start
+    NODE_ENV=production npm start
     ```
